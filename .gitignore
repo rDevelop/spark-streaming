@@ -1,6 +1,7 @@
-# key file
+# key filea
 twitter.txt
-tweet-challenge
+# data dir
+tweets
 
 *.class
 *.log
@@ -116,3 +117,4 @@ spark-warehouse/
 .Rproj.user
 
 .cache-main
+jars/
