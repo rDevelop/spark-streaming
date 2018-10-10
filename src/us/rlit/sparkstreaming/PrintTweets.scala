@@ -41,9 +41,9 @@ object PrintTweets {
     
     // Print out the first ten
     //statuses.print()
-    //trumpTweets.print()
-    //fromTrump.print()
-    popularHashTags.print()
+    trumpTweets.print()
+    fromTrump.print()
+    //popularHashTags.print()
     
     
     // Kick it all off
