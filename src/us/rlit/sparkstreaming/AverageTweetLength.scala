@@ -45,7 +45,6 @@ object AverageTweetLength {
     
     // In Spark 1.6+, you  might also look into the mapWithState function, which allows
     // you to safely and efficiently keep track of global state with key/value pairs.
-    // We'll do that later in the course.
     
     lengths.foreachRDD((rdd, time) => {
       
